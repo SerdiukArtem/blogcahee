@@ -76,6 +76,7 @@ button {
   box-shadow: 1px 1px 5px black;
   font-family: 'Pontano Sans', sans-serif;
   color: #ffffff;
+  cursor: pointer;
 }
 
 
