@@ -5,14 +5,14 @@
 }
 
 .wrapper {
-  width: 1350px;
+  width: 1550px;
   height: 854px;
   background-color: #b07cf7;
 }
 
 header {
   width: 570px;
-  margin-left: 400px;
+  margin: auto;
   text-align: center;
   color: #ffffff;
   font-family: 'Pontano Sans', sans-serif;
@@ -31,7 +31,7 @@ font-size: 17px;
   gap: 25px ;
   align-content: center;
   align-items: center;
-  margin-left: 193px;
+  margin-left: 308px;
   margin-top: 65px ;
   font-family: 'Pontano Sans', sans-serif;
 }
@@ -65,7 +65,7 @@ font-size: 17px;
 }
 
 button {
-  margin-left: 610px;
+  margin: auto;
   margin-top: 20px;
   display: flex;
   text-transform: uppercase;
