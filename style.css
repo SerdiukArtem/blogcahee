@@ -1,0 +1,84 @@
+* {
+  margin: 0;
+  padding: 0%;
+  box-sizing: border-box;
+}
+
+.wrapper {
+  width: 1550px;
+  height: 854px;
+  background-color: #b07cf7;
+}
+
+header {
+  width: 570px;
+  margin: auto;
+  text-align: center;
+  color: #ffffff;
+  font-family: 'Pontano Sans', sans-serif;
+}
+
+h1 {
+  font-size: 90px;
+}
+
+header  p {
+font-size: 17px;
+}
+
+.cards {
+  display: flex;
+  gap: 25px ;
+  align-content: center;
+  align-items: center;
+  margin-left: 308px;
+  margin-top: 65px ;
+  font-family: 'Pontano Sans', sans-serif;
+}
+
+.photo {
+  filter: brightness(60%);
+  position: relative;
+  width: 100%;
+}
+
+.card {
+  margin-left: 15px;
+  width:220px ;
+  top: 410px;
+  position: absolute;
+  color: #ffffff;
+}
+
+.text {
+  width: 40px;
+  margin-left: 20px;
+  top: 280px;
+  position: absolute;
+  background-color: rgba(1, 1, 1, 0.5) ;
+  color: #ffffff;
+  font-family: 'Pontano Sans', sans-serif;
+  text-transform: uppercase;
+  text-align: center;
+  font-weight: bold;
+  border-radius: 5px;
+}
+
+button {
+  margin: auto;
+  margin-top: 20px;
+  display: flex;
+  text-transform: uppercase;
+  align-content: center;
+  background-color: #F72B3B;
+  padding: 10px 40px 10px 40px;
+  border: 0 solid black;
+  box-shadow: 1px 1px 5px black;
+  font-family: 'Pontano Sans', sans-serif;
+  color: #ffffff;
+  cursor: pointer;
+}
+
+
+
+
